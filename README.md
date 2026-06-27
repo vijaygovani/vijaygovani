@@ -119,6 +119,7 @@ Git • GitHub • GitLab • Bitbucket • VS Code • Chrome DevTools • Jira
 - Dual-portal (User + Admin) supporting **10,000+ pensioner beneficiaries**
 - Automated pension workflows · 30% faster processing · 25% improved user engagement
 - Secure JWT authentication and role-based access
+- 🔗 Live: https://admin.rvpn.mybiznext.in/
 
 ### 🏗️ KPCL Administrative Portal
 - **11-module** government plant operations portal (Assets, Dashboard, Maintenance, Grievances, Team...)
